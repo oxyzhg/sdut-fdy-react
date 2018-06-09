@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.header {
+  color: #fff;
+  font-weight: 700;
+  background-color: #008aff;
+}
+
+.header h3 {
+  color: #fff;
+  font-weight: 600;
+}
+
+

@@ -1,0 +1,20 @@
+.main-content {
+  margin: 30px 36px 30px 86px;
+  padding: 50px;
+  background-color: #fff;
+}
+
+.personal-pic {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.college-desc {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.college-desc p {
+  text-indent: 2em;
+}
