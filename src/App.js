@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
-// import { HashRouter as Router } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
-import { Layout } from 'antd';
-import './App.css';
-import HeaderCustom from './layouts/HeaderCustom';
-import FooterCustom from './layouts/FooterCustom';
-import SiderCustom from './layouts/SiderCustom';
-import Routes from './routes';
+import React, { Component } from "react";
+import { HashRouter as Router } from 'react-router-dom';
+// import { BrowserRouter as Router } from "react-router-dom";
+import { Layout } from "antd";
+import "./App.css";
+import HeaderCustom from "./layouts/HeaderCustom";
+import FooterCustom from "./layouts/FooterCustom";
+import SiderCustom from "./layouts/SiderCustom";
+import Routes from "./routes";
 
 const { Content } = Layout;
 
@@ -19,7 +19,7 @@ class App extends Component {
             <HeaderCustom />
             <Layout>
               <SiderCustom />
-              <Content style={{ minWidth:760, background: '#f3f9f1'}}>
+              <Content style={{ minWidth: 760, background: "#f3f9f1" }}>
                 <Routes />
               </Content>
             </Layout>
