@@ -2,9 +2,11 @@
 
 .App {
   text-align: center;
+  min-width: 1016px;
 }
 
 .header {
+  min-width: 1016px;
   color: #fff;
   font-weight: 700;
   background-color: #008aff;
