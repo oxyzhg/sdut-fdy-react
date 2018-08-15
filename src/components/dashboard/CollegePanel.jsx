@@ -137,7 +137,7 @@ class CollegePanel extends Component {
             },
             {
               id: 7,
-              name: '李昌联',
+              name: '李昌朕',
               type: '辅导员',
               avatar: avatarPic.pic_1_7
             },
