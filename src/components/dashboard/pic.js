@@ -19,7 +19,7 @@ import pic_2_7 from '../../assets/pic/交通与车辆工程学院/崔建强.jpg'
 import pic_2_8 from '../../assets/pic/交通与车辆工程学院/范晶晶.jpg';
 
 
-import pic_3_1 from '../../assets/pic/农业工程与食品科学学院/曹玉霞.jpg';
+import pic_3_1 from '../../assets/pic/农业工程与食品科学学院/戴洁.jpg';
 import pic_3_2 from '../../assets/pic/农业工程与食品科学学院/张佳.jpg';
 import pic_3_3 from '../../assets/pic/农业工程与食品科学学院/周丽妲.jpg';
 import pic_3_4 from '../../assets/pic/农业工程与食品科学学院/曹林林.jpg';
@@ -29,28 +29,26 @@ import pic_3_7 from '../../assets/pic/农业工程与食品科学学院/魏洪�
 
 
 import pic_4_1 from '../../assets/pic/电气学院/刘东锋.jpg';
-import pic_4_2 from '../../assets/pic/电气学院/韩智利.jpg';
-import pic_4_3 from '../../assets/pic/电气学院/谢婕.jpg';
-import pic_4_4 from '../../assets/pic/电气学院/李红玲.jpg';
-import pic_4_5 from '../../assets/pic/电气学院/陈强.jpg';
-import pic_4_6 from '../../assets/pic/电气学院/李璐.jpg';
-import pic_4_7 from '../../assets/pic/电气学院/王翔宇.jpg';
-import pic_4_8 from '../../assets/pic/电气学院/王国昊.jpg';
-import pic_4_9 from '../../assets/pic/电气学院/秦雪瑶.jpg';
-import pic_4_10 from '../../assets/pic/电气学院/聂云聪.jpg';
+import pic_4_2 from '../../assets/pic/电气学院/谢婕.jpg';
+import pic_4_3 from '../../assets/pic/电气学院/李红玲.jpg';
+import pic_4_4 from '../../assets/pic/电气学院/陈强.jpg';
+import pic_4_5 from '../../assets/pic/电气学院/李璐.jpg';
+import pic_4_6 from '../../assets/pic/电气学院/王翔宇.jpg';
+import pic_4_7 from '../../assets/pic/电气学院/王国昊.jpg';
+import pic_4_8 from '../../assets/pic/电气学院/秦雪瑶.jpg';
+import pic_4_9 from '../../assets/pic/电气学院/聂云聪.jpg';
 
 import pic_5_1 from '../../assets/pic/计算机学院/娄春婷.jpg';
-import pic_5_2 from '../../assets/pic/计算机学院/刘灿德.jpg';
-import pic_5_3 from '../../assets/pic/计算机学院/王寿朋.jpg';
-import pic_5_4 from '../../assets/pic/计算机学院/刘丛丛.jpg';
-import pic_5_5 from '../../assets/pic/计算机学院/李文婷.jpg';
-import pic_5_6 from '../../assets/pic/计算机学院/刘明卿.jpg';
-import pic_5_7 from '../../assets/pic/计算机学院/周蕾.jpg';
-import pic_5_8 from '../../assets/pic/计算机学院/波合丽且姆·阿卜力克木.jpg';
-import pic_5_9 from '../../assets/pic/计算机学院/刘岩.jpg';
-import pic_5_10 from '../../assets/pic/计算机学院/王文奇.jpg';
+import pic_5_2 from '../../assets/pic/计算机学院/王寿朋.jpg';
+import pic_5_3 from '../../assets/pic/计算机学院/刘丛丛.jpg';
+import pic_5_4 from '../../assets/pic/计算机学院/李文婷.jpg';
+import pic_5_5 from '../../assets/pic/计算机学院/刘明卿.jpg';
+import pic_5_6 from '../../assets/pic/计算机学院/周蕾.jpg';
+import pic_5_7 from '../../assets/pic/计算机学院/波合丽且姆·阿卜力克木.jpg';
+import pic_5_8 from '../../assets/pic/计算机学院/刘岩.jpg';
+import pic_5_9 from '../../assets/pic/计算机学院/王文奇.jpg';
 
-import pic_6_1 from '../../assets/pic/化工学院/李冰强.jpg';
+import pic_6_1 from '../../assets/pic/化工学院/牟海萍.jpg';
 import pic_6_2 from '../../assets/pic/化工学院/曹晓媛.jpg';
 import pic_6_3 from '../../assets/pic/化工学院/毕奎奎.jpg';
 import pic_6_4 from '../../assets/pic/化工学院/高勇.jpg';
@@ -61,19 +59,17 @@ import pic_6_8 from '../../assets/pic/化工学院/王菲.jpg';
 import pic_6_9 from '../../assets/pic/化工学院/张永.jpg';
 
 import pic_7_1 from '../../assets/pic/建工学院/王延深.jpg';
-import pic_7_2 from '../../assets/pic/建工学院/李萍.jpg';
-import pic_7_3 from '../../assets/pic/建工学院/赵峰峰.jpg';
-import pic_7_4 from '../../assets/pic/建工学院/牟晓莹.jpg';
-import pic_7_5 from '../../assets/pic/建工学院/亓强.jpg';
-import pic_7_6 from '../../assets/pic/建工学院/耿连娜.jpg';
-import pic_7_7 from '../../assets/pic/建工学院/侯春宏.jpg';
-import pic_7_8 from '../../assets/pic/建工学院/杨瑞.jpg';
+import pic_7_2 from '../../assets/pic/建工学院/赵峰峰.jpg';
+import pic_7_3 from '../../assets/pic/建工学院/牟晓莹.jpg';
+import pic_7_4 from '../../assets/pic/建工学院/亓强.jpg';
+import pic_7_5 from '../../assets/pic/建工学院/耿连娜.jpg';
+import pic_7_6 from '../../assets/pic/建工学院/侯春宏.jpg';
+import pic_7_7 from '../../assets/pic/建工学院/杨瑞.jpg';
 
 import pic_8_1 from '../../assets/pic/资环学院/李栋祥.jpg';
 import pic_8_2 from '../../assets/pic/资环学院/赵鹏.jpg';
 import pic_8_3 from '../../assets/pic/资环学院/张倩.jpg';
-import pic_8_4 from '../../assets/pic/资环学院/左安源.jpg';
-import pic_8_5 from '../../assets/pic/资环学院/苗涛.jpg';
+import pic_8_4 from '../../assets/pic/资环学院/苗涛.jpg';
 
 import pic_9_1 from '../../assets/pic/材料学院/陈沙.jpg';
 import pic_9_2 from '../../assets/pic/材料学院/王潇伟.jpg';
@@ -88,14 +84,13 @@ import pic_10_4 from '../../assets/pic/生命科学学院/翟静涛.jpg';
 import pic_10_5 from '../../assets/pic/生命科学学院/李超.jpg';
 
 import pic_11_1 from '../../assets/pic/数统学院/王仲孝.jpg';
-import pic_11_2 from '../../assets/pic/数统学院/王婷.jpg';
-import pic_11_3 from '../../assets/pic/数统学院/王超.jpg';
-import pic_11_4 from '../../assets/pic/数统学院/王凤璐.jpg';
-import pic_11_5 from '../../assets/pic/数统学院/张丽姣.jpg';
-import pic_11_6 from '../../assets/pic/数统学院/加尼别克·阿布拉.jpg';
-import pic_11_7 from '../../assets/pic/数统学院/刘曌阳.jpg';
+import pic_11_2 from '../../assets/pic/数统学院/王超.jpg';
+import pic_11_3 from '../../assets/pic/数统学院/王凤璐.jpg';
+import pic_11_4 from '../../assets/pic/数统学院/张丽姣.jpg';
+import pic_11_5 from '../../assets/pic/数统学院/加尼别克·阿布拉.jpg';
+import pic_11_6 from '../../assets/pic/数统学院/刘曌阳.jpg';
 
-import pic_12_1 from '../../assets/pic/物光学院/戴洁.jpg';
+import pic_12_1 from '../../assets/pic/物光学院/范小平.jpg';
 import pic_12_2 from '../../assets/pic/物光学院/亓鹏.jpg';
 import pic_12_3 from '../../assets/pic/物光学院/崔鹏.jpg';
 import pic_12_4 from '../../assets/pic/物光学院/张起.jpg';
@@ -109,15 +104,16 @@ import pic_13_6 from '../../assets/pic/经济学院/赵星.jpg';
 import pic_13_7 from '../../assets/pic/经济学院/梁群.jpg';
 import pic_13_8 from '../../assets/pic/经济学院/冯文华.jpg';
 
-import pic_14_1 from '../../assets/pic/管理学院/巩丽.jpg';
-import pic_14_2 from '../../assets/pic/管理学院/于国良.jpg';
-import pic_14_3 from '../../assets/pic/管理学院/李金香.jpg';
-import pic_14_4 from '../../assets/pic/管理学院/王循聪.jpg';
-import pic_14_5 from '../../assets/pic/管理学院/许敬.jpg';
-import pic_14_6 from '../../assets/pic/管理学院/曹睿.jpg';
-import pic_14_7 from '../../assets/pic/管理学院/张仕杰.jpg';
-import pic_14_8 from '../../assets/pic/管理学院/靳祺.jpg';
-import pic_14_9 from '../../assets/pic/管理学院/高甲杰.jpg';
+import pic_14_1 from '../../assets/pic/管理学院/高静静.jpg';
+import pic_14_2 from '../../assets/pic/管理学院/巩丽.jpg';
+import pic_14_3 from '../../assets/pic/管理学院/于国良.jpg';
+import pic_14_4 from '../../assets/pic/管理学院/李金香.jpg';
+import pic_14_5 from '../../assets/pic/管理学院/王循聪.jpg';
+import pic_14_6 from '../../assets/pic/管理学院/许敬.jpg';
+import pic_14_7 from '../../assets/pic/管理学院/曹睿.jpg';
+import pic_14_8 from '../../assets/pic/管理学院/张仕杰.jpg';
+import pic_14_9 from '../../assets/pic/管理学院/靳祺.jpg';
+import pic_14_10 from '../../assets/pic/管理学院/高甲杰.jpg';
 
 
 import pic_15_1 from '../../assets/pic/文学院/孙钦泉.jpg';
@@ -127,10 +123,9 @@ import pic_15_4 from '../../assets/pic/文学院/田明月.jpg';
 import pic_15_5 from '../../assets/pic/文学院/张健.jpg';
 
 import pic_16_1 from '../../assets/pic/外国语学院/姜素锦.jpg';
-import pic_16_2 from '../../assets/pic/外国语学院/王伟.jpg';
-import pic_16_3 from '../../assets/pic/外国语学院/朱岩.jpg';
-import pic_16_4 from '../../assets/pic/外国语学院/王惠.jpg';
-import pic_16_5 from '../../assets/pic/外国语学院/邱峥慧.jpg';
+import pic_16_2 from '../../assets/pic/外国语学院/朱岩.jpg';
+import pic_16_3 from '../../assets/pic/外国语学院/王惠.jpg';
+import pic_16_4 from '../../assets/pic/外国语学院/邱峥慧.jpg';
 
 import pic_17_1 from '../../assets/pic/法学院/宋立平.jpg';
 import pic_17_2 from '../../assets/pic/法学院/许燕飞.jpg';
@@ -138,13 +133,12 @@ import pic_17_3 from '../../assets/pic/法学院/孙明.jpg';
 import pic_17_4 from '../../assets/pic/法学院/孟晶晶.jpg';
 import pic_17_5 from '../../assets/pic/法学院/李振铭.jpg';
 
-import pic_18_1 from '../../assets/pic/美术学院/荣国.jpg';
-import pic_18_2 from '../../assets/pic/美术学院/秦伟伟.jpg';
-import pic_18_3 from '../../assets/pic/美术学院/侯倩.jpg';
-import pic_18_4 from '../../assets/pic/美术学院/蒲玉姗.jpg';
-import pic_18_5 from '../../assets/pic/美术学院/于英钊.jpg';
+import pic_18_1 from '../../assets/pic/美术学院/苑司超.jpg';
+import pic_18_2 from '../../assets/pic/美术学院/侯倩.jpg';
+import pic_18_3 from '../../assets/pic/美术学院/蒲玉姗.jpg';
+import pic_18_4 from '../../assets/pic/美术学院/于英钊.jpg';
 
-import pic_19_1 from '../../assets/pic/音乐学院/牟海萍.jpg';
+import pic_19_1 from '../../assets/pic/音乐学院/陈兆磊.jpg';
 import pic_19_2 from '../../assets/pic/音乐学院/施海花.jpg';
 import pic_19_3 from '../../assets/pic/音乐学院/王健.jpg';
 import pic_19_4 from '../../assets/pic/音乐学院/陈盼盼.jpg';
@@ -155,9 +149,10 @@ import pic_20_3 from '../../assets/pic/体育学院/孙婷.jpg';
 import pic_20_4 from '../../assets/pic/体育学院/邱先慧.jpg';
 import pic_20_5 from '../../assets/pic/体育学院/王静飞.jpg';
 
-import pic_21_1 from '../../assets/pic/鲁泰学院/王晓东.jpg';
-import pic_21_2 from '../../assets/pic/鲁泰学院/于珊.jpg';
-import pic_21_3 from '../../assets/pic/鲁泰学院/刘红阳.jpg';
+import pic_21_1 from '../../assets/pic/鲁泰学院/董梅.jpg';
+import pic_21_2 from '../../assets/pic/鲁泰学院/王晓东.jpg';
+import pic_21_3 from '../../assets/pic/鲁泰学院/于珊.jpg';
+import pic_21_4 from '../../assets/pic/鲁泰学院/刘红阳.jpg';
 
 export default {
   pic_1_1,
@@ -197,7 +192,6 @@ export default {
   pic_4_7,
   pic_4_8,
   pic_4_9,
-  pic_4_10,
 
   pic_5_1,
   pic_5_2,
@@ -208,7 +202,6 @@ export default {
   pic_5_7,
   pic_5_8,
   pic_5_9,
-  pic_5_10,
 
   pic_6_1,
   pic_6_2,
@@ -227,13 +220,11 @@ export default {
   pic_7_5,
   pic_7_6,
   pic_7_7,
-  pic_7_8,
 
   pic_8_1,
   pic_8_2,
   pic_8_3,
   pic_8_4,
-  pic_8_5,
 
   pic_9_1,
   pic_9_2,
@@ -253,7 +244,6 @@ export default {
   pic_11_4,
   pic_11_5,
   pic_11_6,
-  pic_11_7,
 
   pic_12_1,
   pic_12_2,
@@ -278,6 +268,7 @@ export default {
   pic_14_7,
   pic_14_8,
   pic_14_9,
+  pic_14_10,
 
   pic_15_1,
   pic_15_2,
@@ -289,7 +280,6 @@ export default {
   pic_16_2,
   pic_16_3,
   pic_16_4,
-  pic_16_5,
 
   pic_17_1,
   pic_17_2,
@@ -301,7 +291,6 @@ export default {
   pic_18_2,
   pic_18_3,
   pic_18_4,
-  pic_18_5,
 
   pic_19_1,
   pic_19_2,
@@ -316,5 +305,6 @@ export default {
 
   pic_21_1,
   pic_21_2,
-  pic_21_3
+  pic_21_3,
+  pic_21_4
 };
