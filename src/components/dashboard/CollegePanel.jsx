@@ -356,7 +356,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '王寿朋',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_5_2
             },
             {
@@ -484,7 +484,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '赵峰峰',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_7_2
             },
             {
@@ -654,7 +654,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '王超',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_11_2
             },
             {
@@ -727,7 +727,7 @@ class CollegePanel extends Component {
           teachers: [
             {
               id: 1,
-              name: '朱星辉',
+              name: '孙兆扬',
               type: '党总支副书记',
               avatar: avatarPic.pic_13_1
             },
@@ -899,7 +899,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '朱岩',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_16_2
             },
             {
@@ -973,7 +973,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '侯倩',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_18_2
             },
             {
@@ -1081,7 +1081,7 @@ class CollegePanel extends Component {
             },
             {
               id: 2,
-              name: '王晓东',
+              name: '王晓冬',
               type: '学生工作办公室主任、团总支书记',
               avatar:  avatarPic.pic_21_2
             },

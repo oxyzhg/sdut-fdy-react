@@ -95,7 +95,7 @@ import pic_12_2 from '../../assets/pic/物光学院/亓鹏.jpg';
 import pic_12_3 from '../../assets/pic/物光学院/崔鹏.jpg';
 import pic_12_4 from '../../assets/pic/物光学院/张起.jpg';
 
-import pic_13_1 from '../../assets/pic/经济学院/朱星辉.jpg';
+import pic_13_1 from '../../assets/pic/经济学院/孙兆扬.jpg';
 import pic_13_2 from '../../assets/pic/经济学院/孙兆风.jpg';
 import pic_13_3 from '../../assets/pic/经济学院/郭洪涛.jpg';
 import pic_13_4 from '../../assets/pic/经济学院/齐丹丹.jpg';
@@ -150,7 +150,7 @@ import pic_20_4 from '../../assets/pic/体育学院/邱先慧.jpg';
 import pic_20_5 from '../../assets/pic/体育学院/王静飞.jpg';
 
 import pic_21_1 from '../../assets/pic/鲁泰学院/董梅.jpg';
-import pic_21_2 from '../../assets/pic/鲁泰学院/王晓东.jpg';
+import pic_21_2 from '../../assets/pic/鲁泰学院/王晓冬.jpg';
 import pic_21_3 from '../../assets/pic/鲁泰学院/于珊.jpg';
 import pic_21_4 from '../../assets/pic/鲁泰学院/刘红阳.jpg';
 

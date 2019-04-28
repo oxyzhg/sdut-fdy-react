@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b48a9f5-0dc5-4fd4-ae49-6a26ace3dff2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/农业工程与食品科学学院/曹玉霞.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/化工学院/李冰强.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/建工学院/李萍.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/数统学院/王婷.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/物光学院/戴洁.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/电气学院/韩智利.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/美术学院/秦伟伟.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/美术学院/荣国.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/计算机学院/刘灿德.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/资环学院/左安源.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/pic/音乐学院/牟海萍.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/CollegePanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/CollegePanel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/pic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/pic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,26 +15,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/dashboard/CollegePanel.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8848">
-              <caret line="678" column="20" lean-forward="true" selection-start-line="678" selection-start-column="20" selection-end-line="678" selection-end-column="20" />
+            <state relative-caret-position="364">
+              <caret line="661" column="26" selection-start-line="661" selection-start-column="26" selection-end-line="661" selection-end-column="26" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/dashboard/pic.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="292" column="11" selection-start-line="292" selection-start-column="11" selection-end-line="292" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,9 +55,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="597" />
+    <option name="y" value="11" />
+    <option name="width" value="979" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -130,12 +107,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat-service/wechat-start" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="F:\工作\react项目\sdut-fdy\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.splitter.proportion" value="0.3409611" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,76 +139,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555679908071</updated>
-      <workItem from="1555679911858" duration="2915000" />
+      <workItem from="1555679911858" duration="4242000" />
+      <workItem from="1555684217514" duration="166000" />
+      <workItem from="1555719998001" duration="1559000" />
+      <workItem from="1555722321862" duration="38000" />
+      <workItem from="1555722374766" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2915000" />
+    <option name="totallyTimeSpent" value="6054000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22117962" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="npm" order="0" side_tool="true" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22117962" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17227723" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.22408964" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.33286119" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/dashboard/CollegePanel.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/pic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8848">
-          <caret line="678" column="20" lean-forward="true" selection-start-line="678" selection-start-column="20" selection-end-line="678" selection-end-column="20" />
+        <state relative-caret-position="137">
+          <caret line="292" column="11" selection-start-line="292" selection-start-column="11" selection-end-line="292" selection-end-column="11" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/dashboard/pic.js">
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/CollegePanel.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="292" column="11" selection-start-line="292" selection-start-column="11" selection-end-line="292" selection-end-column="11" />
+        <state relative-caret-position="364">
+          <caret line="661" column="26" selection-start-line="661" selection-start-column="26" selection-end-line="661" selection-end-column="26" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
