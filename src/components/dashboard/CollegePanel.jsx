@@ -287,7 +287,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '谢婕',
-              type: '学生工作办公室主任、团总支书记',
+              type: '辅导员',
               avatar: avatarPic.pic_4_2
             },
             {
