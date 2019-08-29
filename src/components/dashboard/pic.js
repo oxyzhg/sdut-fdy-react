@@ -158,7 +158,6 @@ import pic_17_guorui from '../../assets/pic/法学院/国睿.jpg';
 import pic_17_weichenchen from '../../assets/pic/法学院/魏晨晨.jpg';
 
 import pic_18_1 from '../../assets/pic/美术学院/苑司超.jpg';
-import pic_18_2 from '../../assets/pic/美术学院/侯倩.jpg';
 import pic_18_3 from '../../assets/pic/美术学院/蒲玉姗.jpg';
 import pic_18_4 from '../../assets/pic/美术学院/于英钊.jpg';
 import pic_18_leiyandong from '../../assets/pic/美术学院/类延东.jpg';
@@ -180,6 +179,8 @@ import pic_21_2 from '../../assets/pic/鲁泰学院/王晓冬.jpg';
 import pic_21_3 from '../../assets/pic/鲁泰学院/于珊.jpg';
 import pic_21_4 from '../../assets/pic/鲁泰学院/刘红阳.jpg';
 import pic_21_wuhaifeng from '../../assets/pic/鲁泰学院/吴海峰.jpg';
+
+import pic_22_houqian from '../../assets/pic/马克思主义学院/侯倩.jpg';
 
 export default {
   pic_1_1,
@@ -343,7 +344,6 @@ export default {
   pic_17_weichenchen,
 
   pic_18_1,
-  pic_18_2,
   pic_18_3,
   pic_18_4,
   pic_18_leiyandong,
@@ -364,5 +364,7 @@ export default {
   pic_21_2,
   pic_21_3,
   pic_21_4,
-  pic_21_wuhaifeng
+  pic_21_wuhaifeng,
+
+  pic_22_houqian
 };
