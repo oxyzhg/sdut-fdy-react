@@ -98,6 +98,12 @@ class CollegePanel extends Component {
         {
           key: 1,
           collegeName: '机械工程学院',
+          /**
+           * 每个对象的id给数据更新带来很大的麻烦，
+           * 为了减小更新的复杂度，
+           * 从2019-8-29更新开始，不再设置id
+           * 图片名称改为：pic_collegeID_name
+           */
           teachers: [
             {
               id: 1,
@@ -116,12 +122,6 @@ class CollegePanel extends Component {
               name: '朱峰',
               type: '辅导员',
               avatar: avatarPic.pic_1_3
-            },
-            {
-              id: 4,
-              name: '冯娅妮',
-              type: '辅导员',
-              avatar: avatarPic.pic_1_4
             },
             {
               id: 5,
@@ -158,7 +158,27 @@ class CollegePanel extends Component {
               name: '王予彬',
               type: '辅导员',
               avatar: avatarPic.pic_1_10
-            }
+            },
+            {
+              name: '齐航',
+              type: '辅导员',
+              avatar: avatarPic.pic_1_qihang
+            },
+            {
+              name: '孙烨',
+              type: '辅导员',
+              avatar: avatarPic.pic_1_sunye
+            },
+            {
+              name: '刘冰',
+              type: '辅导员',
+              avatar: avatarPic.pic_1_liubing
+            },
+            {
+              name: '辛玉娟',
+              type: '辅导员',
+              avatar: avatarPic.pic_1_xinyujuan
+            },
           ],
           description: [
             '机械工程学院现有在校生2815人,其中研究生170人，学院设有四个本科专业、三个研究生专业，并承担了学校CDIO工程教育、“卓越工程师”、本科创新实验班、中外合作办学、春季招生等改革试点，现有辅导员7人。学生工作紧紧围绕立德树人根本任务，坚持以人为本的工作理念，以形成全员、全过程、全方位育人格局为导向，以教书育人、管理育人、服务育人为基本内容，以学风建设为核心，以为学生思想政治教育主线，以课堂、宿舍和社团为平台，以辅导员、学生骨干和班级导师队伍为抓手，建立以教管融合、专兼结合的学生工作机制，不断完善的学生教育管理服务体系，使学生教育管理服务与培养目标、形势变化、学生特点和成长需要相适应，全面服务于学生成长成才。'
@@ -187,12 +207,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_2_3
             },
             {
-              id: 4,
-              name: '国睿',
-              type: '辅导员',
-              avatar: avatarPic.pic_2_4
-            },
-            {
               id: 5,
               name: '周燕燕',
               type: '辅导员',
@@ -215,6 +229,16 @@ class CollegePanel extends Component {
               name: '范晶晶',
               type: '辅导员',
               avatar: avatarPic.pic_2_8
+            },
+            {
+              name: '崔鹏',
+              type: '辅导员',
+              avatar: avatarPic.pic_2_cuipeng
+            },
+            {
+              name: '张杨',
+              type: '辅导员',
+              avatar: avatarPic.pic_2_zhangyang
             }
           ],
           description: [
@@ -266,7 +290,17 @@ class CollegePanel extends Component {
               name: '魏洪磊',
               type: '辅导员',
               avatar: avatarPic.pic_3_7
-          }
+            },
+            {
+              name: '张倩 ',
+              type: '辅导员',
+              avatar: avatarPic.pic_3_zhangqian
+            },
+            {
+              name: '贾晶晶',
+              type: '辅导员',
+              avatar: avatarPic.pic_3_jiajingjing
+            },
           ],
           description: [
             '农业工程与食品科学学院学生工作以培养高素质的合格人才为目标，以基础文明教育为先导，以加强学风建设为中心，以科技创新为载体,狠抓落实，锐意进取，积极打造学生成长成才的和谐环境，促进学生快乐学习、快乐生活、快乐成长。',
@@ -331,7 +365,27 @@ class CollegePanel extends Component {
               name: '聂云聪',
               type: '辅导员',
               avatar: avatarPic.pic_4_9
-            }
+            },
+            {
+              name: '冯娅妮',
+              type: '辅导员',
+              avatar: avatarPic.pic_4_fengyani
+            },
+            {
+              name: '肖群',
+              type: '辅导员',
+              avatar: avatarPic.pic_4_xiaoqun
+            },
+            {
+              name: '程凯',
+              type: '辅导员',
+              avatar: avatarPic.pic_4_chengkai
+            },
+            {
+              name: '刘惠',
+              type: '辅导员',
+              avatar: avatarPic.pic_4_liuhui
+            },
           ],
           description: [
             '电气学院学生工作以科学发展观为引领，紧紧围绕学校中心工作，坚持以学生为本、全面服务学生成长成才的工作理念，着重培养学生的实践能力和创新能力，突出学院特色，为学生的全面发展和健康成长成才提供服务平台。',
@@ -358,12 +412,6 @@ class CollegePanel extends Component {
               name: '王寿朋',
               type: '辅导员',
               avatar: avatarPic.pic_5_2
-            },
-            {
-              id: 3,
-              name: '刘丛丛',
-              type: '辅导员',
-              avatar: avatarPic.pic_5_3
             },
             {
               id: 4,
@@ -400,6 +448,21 @@ class CollegePanel extends Component {
               name: '王文奇',
               type: '辅导员',
               avatar: avatarPic.pic_5_9
+            },
+            {
+              name: '梁志睿',
+              type: '辅导员',
+              avatar: avatarPic.pic_5_liangzhirui
+            },
+            {
+              name: '王琳珊',
+              type: '辅导员',
+              avatar: avatarPic.pic_5_wanglinshan
+            },
+            {
+              name: '吴盼盼',
+              type: '辅导员',
+              avatar: avatarPic.pic_5_wupanpan
             }
           ],
           description: [
@@ -429,12 +492,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_6_3
             },
             {
-              id: 4,
-              name: '高勇',
-              type: '辅导员',
-              avatar: avatarPic.pic_6_4
-            },
-            {
               id: 5,
               name: '侯振中',
               type: '辅导员',
@@ -447,12 +504,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_6_6
             },
             {
-              id: 7,
-              name: '类延东',
-              type: '辅导员',
-              avatar: avatarPic.pic_6_7
-            },
-            {
               id: 8,
               name: '王菲',
               type: '辅导员',
@@ -463,6 +514,21 @@ class CollegePanel extends Component {
               name: '张永',
               type: '辅导员',
               avatar: avatarPic.pic_6_9
+            },
+            {
+              name: '魏飞',
+              type: '辅导员',
+              avatar: avatarPic.pic_6_weifei
+            },
+            {
+              name: '王永振',
+              type: '辅导员',
+              avatar: avatarPic.pic_6_wangyongzhen
+            },
+            {
+              name: '孙玮玮',
+              type: '辅导员',
+              avatar: avatarPic.pic_6_sunweiwei
             }
           ],
           description: [
@@ -516,6 +582,16 @@ class CollegePanel extends Component {
               name: '杨瑞',
               type: '辅导员',
               avatar: avatarPic.pic_7_7
+            },
+            {
+              name: '王凯旋',
+              type: '辅导员',
+              avatar: avatarPic.pic_7_wangkaixuan
+            },
+            {
+              name: '史金丽',
+              type: '辅导员',
+              avatar: avatarPic.pic_7_shijinli
             }
           ],
           description: [
@@ -539,16 +615,25 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_8_2
             },
             {
-              id: 3,
-              name: '张倩 ',
-              type: '辅导员',
-              avatar: avatarPic.pic_8_3
-            },
-            {
               id: 4,
               name: '苗涛',
               type: '辅导员',
               avatar: avatarPic.pic_8_4
+            },
+            {
+              name: '单琳耀',
+              type: '辅导员',
+              avatar: avatarPic.pic_8_danlinyao
+            },
+            {
+              name: '张媛',
+              type: '辅导员',
+              avatar: avatarPic.pic_8_zhangyuan
+            },
+            {
+              name: '高聪聪',
+              type: '辅导员',
+              avatar: avatarPic.pic_8_gaocongcong
             }
           ],
           description: [
@@ -573,12 +658,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_9_2
             },
             {
-              id: 3,
-              name: '齐航',
-              type: '辅导员',
-              avatar: avatarPic.pic_9_3
-            },
-            {
               id: 4,
               name: '张福玲',
               type: '辅导员',
@@ -589,6 +668,16 @@ class CollegePanel extends Component {
               name: '李昊宇',
               type: '辅导员',
               avatar: avatarPic.pic_9_5
+            },
+            {
+              name: '刘峻溪',
+              type: '辅导员',
+              avatar: avatarPic.pic_9_liujunxi
+            },
+            {
+              name: '王迪',
+              type: '辅导员',
+              avatar: avatarPic.pic_9_wangdi
             }
           ],
           description: [
@@ -680,6 +769,11 @@ class CollegePanel extends Component {
               name: '刘曌阳',
               type: '辅导员',
               avatar: avatarPic.pic_11_6
+            },
+            {
+              name: '刘洁',
+              type: '辅导员',
+              avatar: avatarPic.pic_11_liujie
             }
           ],
           description: [
@@ -702,12 +796,6 @@ class CollegePanel extends Component {
               name: '亓鹏',
               type: '学生工作办公室主任、团总支书记',
               avatar: avatarPic.pic_12_2
-            },
-            {
-              id: 3,
-              name: '崔鹏',
-              type: '辅导员',
-              avatar: avatarPic.pic_12_3
             },
             {
               id: 4,
@@ -772,6 +860,16 @@ class CollegePanel extends Component {
               name: '冯文华',
               type: '辅导员',
               avatar: avatarPic.pic_13_8
+            },
+            {
+              name: '姜海华',
+              type: '辅导员',
+              avatar: avatarPic.pic_13_jianghaihua
+            },
+            {
+              name: '段小莉',
+              type: '辅导员',
+              avatar: avatarPic.pic_13_duanxiaoli
             }
           ],
           description: [
@@ -841,6 +939,21 @@ class CollegePanel extends Component {
               name: '高甲杰',
               type: '辅导员',
               avatar: avatarPic.pic_14_10
+            },
+            {
+              name: '孙婷',
+              type: '辅导员',
+              avatar: avatarPic.pic_14_sunting
+            },
+            {
+              name: '刘丛丛',
+              type: '辅导员',
+              avatar: avatarPic.pic_14_liucongcong
+            },
+            {
+              name: '李峰',
+              type: '辅导员',
+              avatar: avatarPic.pic_14_lifeng
             }
           ],
           description: [
@@ -880,6 +993,11 @@ class CollegePanel extends Component {
               name: '张健',
               type: '辅导员',
               avatar: avatarPic.pic_15_5
+            },
+            {
+              name: '唐磊',
+              type: '辅导员',
+              avatar: avatarPic.pic_15_tanglei
             }
           ],
           description: [
@@ -913,6 +1031,11 @@ class CollegePanel extends Component {
               name: '邱峥慧',
               type: '辅导员',
               avatar: avatarPic.pic_16_4
+            },
+            {
+              name: '阴祖宝',
+              type: '辅导员',
+              avatar: avatarPic.pic_16_yinzubao
             }
           ],
           description: [
@@ -954,6 +1077,16 @@ class CollegePanel extends Component {
               name: '李振铭',
               type: '辅导员',
               avatar: avatarPic.pic_17_5
+            },
+            {
+              name: '国睿',
+              type: '辅导员',
+              avatar: avatarPic.pic_17_guorui
+            },
+            {
+              name: '魏晨晨',
+              type: '辅导员',
+              avatar: avatarPic.pic_17_weichenchen
             }
           ],
           description: [
@@ -971,12 +1104,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_18_1
             },
             {
-              id: 2,
-              name: '侯倩',
-              type: '辅导员',
-              avatar: avatarPic.pic_18_2
-            },
-            {
               id: 3,
               name: '蒲玉姗',
               type: '辅导员',
@@ -987,7 +1114,12 @@ class CollegePanel extends Component {
               name: '于英钊',
               type: '辅导员',
               avatar: avatarPic.pic_18_4
-            }
+            },
+            {
+              name: '类延东',
+              type: '辅导员',
+              avatar: avatarPic.pic_18_leiyandong
+            },
           ],
           description: [
             '美术学院现有专职学生工作人员4名，在校本专科生903人。学院学生工作坚持以大学生思想政治教育为主线，以学风建设为中心，本着全面服务学生成长成才的理念，关注和关心学生的生活、家庭、情绪、情感、前途和学习状况，努力创造和形成一种“和谐、宽松、认真、向上”的工作、学习环境。注重学生党员、班委、学生会和社团联合会的学生骨干队伍的培养和教育，促进学院良好学风的形成。制订和完善各项规章制度并严格落实，切实提高我院的学生思想教育、管理和服务工作的整体水平。',
@@ -1021,6 +1153,11 @@ class CollegePanel extends Component {
               name: '陈盼盼',
               type: '辅导员',
               avatar: avatarPic.pic_19_4
+            },
+            {
+              name: '李俊潼',
+              type: '辅导员',
+              avatar: avatarPic.pic_19_lijuntong
             }
           ],
           description: [
@@ -1045,12 +1182,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_20_2
             },
             {
-              id: 3,
-              name: '孙婷',
-              type: '辅导员',
-              avatar: avatarPic.pic_20_3
-            },
-            {
               id: 4,
               name: '邱先慧',
               type: '辅导员',
@@ -1061,7 +1192,12 @@ class CollegePanel extends Component {
               name: '王静飞',
               type: '辅导员',
               avatar: avatarPic.pic_20_5
-            }
+            },
+            {
+              name: '高勇',
+              type: '辅导员',
+              avatar: avatarPic.pic_20_gaoyong
+            },
           ],
           description: [
             '体育学院目前设有体育教育和运动训练两个本科专业，现有在校生1173人，专职辅导员三名，兼职辅导员两名，有体育学院学生会和社团联合会、自律委、就业服务中心、新闻中心五大学生组织。',
@@ -1077,13 +1213,13 @@ class CollegePanel extends Component {
               id: 1,
               name: '董梅',
               type: '党总支副书记',
-              avatar:  avatarPic.pic_21_1
+              avatar: avatarPic.pic_21_1
             },
             {
               id: 2,
               name: '王晓冬',
               type: '学生工作办公室主任、团总支书记',
-              avatar:  avatarPic.pic_21_2
+              avatar: avatarPic.pic_21_2
             },
             {
               id: 3,
@@ -1096,6 +1232,11 @@ class CollegePanel extends Component {
               name: '刘红阳',
               type: '辅导员',
               avatar: avatarPic.pic_21_4
+            },
+            {
+              name: '吴海峰',
+              type: '辅导员',
+              avatar: avatarPic.pic_21_wuhaifeng
             }
           ],
           description: [
