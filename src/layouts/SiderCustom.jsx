@@ -94,10 +94,6 @@ class SiderCustom extends Component {
         {
           key: 21,
           name: "鲁泰纺织服装学院"
-        },
-        {
-          key: 22,
-          name: "马克思主义学院"
         }
       ]
     };

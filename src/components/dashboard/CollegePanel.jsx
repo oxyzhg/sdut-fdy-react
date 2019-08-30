@@ -92,10 +92,6 @@ class CollegePanel extends Component {
         {
           key: 21,
           name: '鲁泰纺织服装学院'
-        },
-        {
-          key: 22,
-          name: '鲁泰纺织服装学院'
         }
       ],
       collegeInfo: [
@@ -126,12 +122,6 @@ class CollegePanel extends Component {
               name: '朱峰',
               type: '辅导员',
               avatar: avatarPic.pic_1_3
-            },
-            {
-              id: 5,
-              name: '张燕丽',
-              type: '辅导员',
-              avatar: avatarPic.pic_1_5
             },
             {
               id: 6,
@@ -266,12 +256,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_3_2
             },
             {
-              id: 3,
-              name: '周丽妲',
-              type: '辅导员',
-              avatar: avatarPic.pic_3_3
-            },
-            {
               id: 4,
               name: '曹林林',
               type: '辅导员',
@@ -305,6 +289,11 @@ class CollegePanel extends Component {
               type: '辅导员',
               avatar: avatarPic.pic_3_jiajingjing
             },
+            {
+              name: '郑群',
+              type: '辅导员',
+              avatar: avatarPic.pic_3_zhengqun
+            }
           ],
           description: [
             '农业工程与食品科学学院学生工作以培养高素质的合格人才为目标，以基础文明教育为先导，以加强学风建设为中心，以科技创新为载体,狠抓落实，锐意进取，积极打造学生成长成才的和谐环境，促进学生快乐学习、快乐生活、快乐成长。',
@@ -321,6 +310,11 @@ class CollegePanel extends Component {
               name: '刘东锋',
               type: '党总支副书记',
               avatar: avatarPic.pic_4_1
+            },
+            {
+              name: '王循聪',
+              type: '学生工作办公室主任、团总支书记',
+              avatar: avatarPic.pic_4_wangxuncong
             },
             {
               id: 2,
@@ -412,6 +406,11 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_5_1
             },
             {
+              name: '孙明',
+              type: '学生工作办公室主任、团总支书记',
+              avatar: avatarPic.pic_5_sunming
+            },
+            {
               id: 2,
               name: '王寿朋',
               type: '辅导员',
@@ -448,12 +447,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_5_8
             },
             {
-              id: 9,
-              name: '王文奇',
-              type: '辅导员',
-              avatar: avatarPic.pic_5_9
-            },
-            {
               name: '梁志睿',
               type: '辅导员',
               avatar: avatarPic.pic_5_liangzhirui
@@ -488,12 +481,6 @@ class CollegePanel extends Component {
               name: '曹晓媛',
               type: '学生工作办公室主任、团总支书记',
               avatar: avatarPic.pic_6_2
-            },
-            {
-              id: 3,
-              name: '毕奎奎',
-              type: '辅导员',
-              avatar: avatarPic.pic_6_3
             },
             {
               id: 5,
@@ -552,10 +539,10 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_7_1
             },
             {
-              id: 2,
-              name: '赵峰峰',
-              type: '辅导员',
-              avatar: avatarPic.pic_7_2
+              id: 5,
+              name: '张燕丽',
+              type: '学生工作办公室主任、团总支书记',
+              avatar: avatarPic.pic_7_zhangyanli
             },
             {
               id: 3,
@@ -747,7 +734,7 @@ class CollegePanel extends Component {
             {
               id: 2,
               name: '王超',
-              type: '辅导员',
+              type: '学生工作办公室主任、团总支书记',
               avatar: avatarPic.pic_11_2
             },
             {
@@ -806,7 +793,12 @@ class CollegePanel extends Component {
               name: '张起',
               type: '辅导员',
               avatar: avatarPic.pic_12_4
-            }
+            },
+            {
+              name: '王芳',
+              type: '辅导员',
+              avatar: avatarPic.pic_12_wangfang
+            },
           ],
           description: [
             '物理与光电工程学院成立于2017年6月，现有物理学、光电信息科学与工程2个专业，专职辅导员3名，下设学生会和天文爱好者协会、物理协会、吉他协会、跆拳道协会4个社团。',
@@ -834,12 +826,6 @@ class CollegePanel extends Component {
               name: '郭洪涛',
               type: '辅导员',
               avatar: avatarPic.pic_13_3
-            },
-            {
-              id: 4,
-              name: '齐丹丹',
-              type: '辅导员',
-              avatar: avatarPic.pic_13_4
             },
             {
               id: 5,
@@ -903,28 +889,10 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_14_3
             },
             {
-              id: 4,
-              name: '李金香',
-              type: '辅导员',
-              avatar: avatarPic.pic_14_4
-            },
-            {
-              id: 5,
-              name: '王循聪',
-              type: '辅导员',
-              avatar: avatarPic.pic_14_5
-            },
-            {
               id: 6,
               name: '许敬',
               type: '辅导员',
               avatar: avatarPic.pic_14_6
-            },
-            {
-              id: 7,
-              name: '曹睿',
-              type: '辅导员',
-              avatar: avatarPic.pic_14_7
             },
             {
               id: 8,
@@ -970,9 +938,9 @@ class CollegePanel extends Component {
           teachers: [
             {
               id: 1,
-              name: '孙钦泉',
+              name: '刘晓东',
               type: '党总支副书记',
-              avatar: avatarPic.pic_15_1
+              avatar: avatarPic.pic_15_liuxiaodong
             },
             {
               id: 2,
@@ -1019,6 +987,11 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_16_1
             },
             {
+              name: '周丽妲',
+              type: '学生工作办公室主任、团总支书记',
+              avatar: avatarPic.pic_16_zhoulida
+            },
+            {
               id: 2,
               name: '朱岩',
               type: '辅导员',
@@ -1031,15 +1004,14 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_16_3
             },
             {
-              id: 4,
-              name: '邱峥慧',
-              type: '辅导员',
-              avatar: avatarPic.pic_16_4
-            },
-            {
               name: '阴祖宝',
               type: '辅导员',
               avatar: avatarPic.pic_16_yinzubao
+            },
+            {
+              name: '邢琛',
+              type: '辅导员',
+              avatar: avatarPic.pic_16_xingchen
             }
           ],
           description: [
@@ -1063,12 +1035,6 @@ class CollegePanel extends Component {
               name: '许燕飞',
               type: '学生工作办公室主任、团总支书记',
               avatar: avatarPic.pic_17_2
-            },
-            {
-              id: 3,
-              name: '孙明',
-              type: '辅导员',
-              avatar: avatarPic.pic_17_3
             },
             {
               id: 4,
@@ -1106,6 +1072,11 @@ class CollegePanel extends Component {
               name: '苑司超',
               type: '党总支副书记',
               avatar: avatarPic.pic_18_1
+            },
+            {
+              name: '李金香',
+              type: '学生工作办公室主任、团总支书记',
+              avatar: avatarPic.pic_18_lijinxiang
             },
             {
               id: 3,
@@ -1232,12 +1203,6 @@ class CollegePanel extends Component {
               avatar: avatarPic.pic_21_3
             },
             {
-              id: 4,
-              name: '刘红阳',
-              type: '辅导员',
-              avatar: avatarPic.pic_21_4
-            },
-            {
               name: '吴海峰',
               type: '辅导员',
               avatar: avatarPic.pic_21_wuhaifeng
@@ -1247,21 +1212,6 @@ class CollegePanel extends Component {
             '适应校企合作人才培养模式需要，鲁泰纺织服装学院学生工作秉承“育人为本，全面服务学生成长成才”的工作理念和“倾心教育、精心管理、贴心服务”的工作宗旨，牢牢把握学风建设这一工作主线，紧紧依靠辅导员、学生党员、学生干部三支队伍，全力培养强实践、能管理、善创新、具有国际视野的德智体全面发展的高素质人才。',
             '以完善学生管理制度为切入点加强工作规范化建设，提高工作效率和服务学生水平；以微信新媒体平台建设为载体加强学生的思想教育，丰富教育方法手段，把握正确舆论导向，传播正能量；以班级目标责任制的实施为抓手深化学风建设，着力突出班级、宿舍在学风建设中的示范作用，进一步夯实学生的专业思想基础和学习基础；以“专业技能工作室”为依托，发挥班级导师的作用和校企合作平台的功能，鼓励支持学生参加各种专业技能大赛，强化学生实践能力和创新能力培养。在夯实常规工作的基础上，积极探索打造工作特色，不断提高工作的针对性和实效性。',
             '自2010年以来，我院在学风建设、社会实践、学生奖励激励机制、就业创业等方面逐渐形成了自己的体系与特色，为学生全面成长成才提供了良好的氛围和平台，思想政治教育工作取得良好效果。 '
-          ]
-        },
-        {
-          key: 22,
-          collegeName: '马克思主义学院',
-          teachers: [
-            {
-              name: '侯倩',
-              type: '辅导员',
-              avatar: avatarPic.pic_22_houqian
-            }
-          ],
-          description: [
-            
-          
           ]
         }
       ]
